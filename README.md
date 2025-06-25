@@ -45,7 +45,7 @@ Full documentation can be found on [pymupdf.readthedocs.io](https://pymupdf.read
 
 
 # About
-
+editing to get ChatGPT to access this REPO
 **PyMuPDF** adds **Python** bindings and abstractions to [MuPDF](https://mupdf.com/), a lightweight **PDF**, **XPS**, and **eBook** viewer, renderer, and toolkit. Both **PyMuPDF** and **MuPDF** are maintained and developed by [Artifex Software, Inc](https://artifex.com).
 
 **PyMuPDF** was originally written by [Jorj X. McKie](mailto:jorj.x.mckie@outlook.de).
